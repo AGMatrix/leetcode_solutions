@@ -11,3 +11,6 @@ class Solution:
             else:
                 hashmap[nums[i]] = i
         return result
+
+# Time Complexity : O(n)
+# Space Complexity : O(n)
